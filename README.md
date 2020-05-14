@@ -13,3 +13,8 @@ Crawler + Prediction of Covid Cured, Fatal and Infected Cases for Macedonia
 * Failed Models
 
 ### HTML folder - extracted notebooks of relevant models
+
+## Technologies
+* Beautiful Soup web scrapping https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+* ARIMA https://pypi.org/project/pmdarima/
+* Facebook Prophet https://facebook.github.io/prophet/
